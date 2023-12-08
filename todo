@@ -1,0 +1,9 @@
+https://code.visualstudio.com/docs/languages/rust
+
+go to https://rustup.rs/
+add rust-analyzer vscode extension
+
+cargo new rust-mtg-json
+
+https://diesel.rs/guides/getting-started.html
+https://stackoverflow.com/a/69580572/18775226
